@@ -1,0 +1,2 @@
+rootProject.name = "Ex02_MapsSDK_GustavoAntunes"
+include ':app'
